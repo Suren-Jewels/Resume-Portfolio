@@ -8,7 +8,7 @@ Welcome to my professional portfolio. This repository showcases my resume, key a
 ## 🧠 About Me
 - **Cloud Infrastructure & Systems Engineer**
 - IL4/IL5 Security Admin | IAM Specialist | Automation Expert
-- TS/SCI Eligible | U.S. Citizen | Multilingual (English, Persian, Turkish)
+- Willing to TS/SCI | U.S. Citizen | Multilingual (English, Persian, Turkish)
 
 ## 📌 Resume Highlights
 - Supported 5,000+ federal users across IL4/IL5 cloud environments
