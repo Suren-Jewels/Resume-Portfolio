@@ -23,7 +23,7 @@ Welcome to my professional portfolio. This repository showcases my resume, key a
 
 ## 📁 Files
 - 🔎 [View Resume PDF](./SurenJewels_Resume.pdf) ☞ Updated on August 28, 2025
-- 🏆 [Career_Highlights]([https://github.com/Suren-Jewels/Resume-Portfolio/tree/main](https://github.com/Suren-Jewels/Resume-Portfolio/blob/main/Career_Highlights.md))
+- 🏆 [Career_Highlights](https://github.com/Suren-Jewels/Resume-Portfolio/blob/main/Career_Highlights.md))
 - 🗂️ [Project Snapshots](https://github.com/Suren-Jewels/Projects)
 
 ---
