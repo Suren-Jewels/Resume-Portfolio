@@ -20,4 +20,7 @@ This document summarizes key achievements across my professional journey in clou
 - Infrastructure: VDI, Citrix, VoIP, EGSE  
 - Documentation: Technical writing, outcome-driven reporting
 
-> ⚠️ This document reflects public-facing achievements only. Internal implementation details have been omitted to respect confidentiality agreements.
+---
+⚠️ This document reflects public-facing achievements only. Internal implementation details have been omitted to respect confidentiality agreements.
+*Note: Some credentials, contributions, or publications prior to 2025 may appear under the name Saeid "Sid" Javaherian.*
+
