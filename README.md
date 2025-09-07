@@ -26,7 +26,8 @@ Welcome to my professional portfolio. This repository showcases my resume, key a
 - 🏆 [Career_Highlights](https://github.com/Suren-Jewels/Resume-Portfolio/blob/main/Career_Highlights.md)
 - 🗂️ [Project Snapshots](https://github.com/Suren-Jewels/Projects)
 
-*Note: Some credentials, contributions, or publications prior to 2025 may appear under the name Saeid "Sid" Javaherian.*
 ---
+
+*Note: Some credentials, contributions, or publications prior to 2025 may appear under the name Saeid "Sid" Javaherian.*
 
 > *Authenticity, precision, and strategic impact—this is my professional signature.*
