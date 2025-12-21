@@ -6,9 +6,10 @@ Professional resume, career highlights, and project achievements for Suren Jewel
 Welcome to my professional portfolio. This repository showcases my resume, key achievements, and selected projects across cloud infrastructure, secure systems, and enterprise deployment.
 
 ## 🧠 About Me
-- **Cloud Infrastructure & Systems Engineer**
+- **Cloud & Infrastructure Engineer | SRE | Security + Automation | ML Infrastructure**
 - IL4/IL5 Security Admin | IAM Specialist | Automation Expert
-- Willing to TS/SCI cleareance | U.S. Citizen | Multilingual (English, Persian, Turkish)
+- Willing to obtain TS/SCI clearance | U.S. Citizen | Multilingual (English, Persian, Turkish)
+- *What I Do:* Cloud architecture, SRE operations, platform engineering, security hardening, automation, and ML infrastructure foundations.
 
 ## 📌 Resume Highlights
 - Supported 5,000+ federal users across IL4/IL5 cloud environments
@@ -18,16 +19,10 @@ Welcome to my professional portfolio. This repository showcases my resume, key a
 
 ## 🏆 Key Achievements
 - **Enterprise Cloud Optimization**: Reclaimed 18% of underutilized resources
-- **Public Sector Innovation**: Reduced processing times by 40% for City of Tehran GIS
+- **Public Sector Innovation**: Reduced processing times by 40% across municipal GIS and ERP systems
 - **Academic Excellence**: “IT Professor of the Year” for 3 consecutive years
 
 ## 📁 Files
 - 🔎 [View Resume PDF](./SurenJewels_Resume.pdf) ➜ Updated on December 2025
 - 🏆 [Career_Highlights](https://github.com/Suren-Jewels/Resume-Portfolio/blob/main/Career_Highlights.md)
-- 🗂️ [Project Snapshots](https://github.com/Suren-Jewels/Projects)
-
----
-
-*Note: Some credentials, contributions, or publications prior to 2025 may appear under the name Saeid "Sid" Javaherian.*
-
-> *Authenticity, precision, and strategic impact—this is my professional signature.*
+- 🗂️ [Project Repositories]([[https://github.com/Suren-Jewels/Projects](https://github.com/Suren-Jewels?tab=repositories)](https://github.com/Suren-Jewels?tab=repositories)
