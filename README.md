@@ -23,6 +23,6 @@ Welcome to my professional portfolio. This repository showcases my resume, key a
 - **Academic Excellence**: “IT Professor of the Year” for 3 consecutive years
 
 ## 📁 Files
-- 🔎 [View Resume PDF](./SurenJewels_Resume.pdf) ➜ Updated on December 2025
+- 🔎 [View Resume PDF](./SurenJewels_Resume.pdf) ➜ Updated on Jan 8, 2025
 - 🏆 [Career_Highlights](https://github.com/Suren-Jewels/Resume-Portfolio/blob/main/Career_Highlights.md)
 - 🗂️ [Project Repositories]([[https://github.com/Suren-Jewels/Projects](https://github.com/Suren-Jewels?tab=repositories)](https://github.com/Suren-Jewels?tab=repositories)
