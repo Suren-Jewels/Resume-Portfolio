@@ -1,4 +1,4 @@
-# 📄 Suren A. Jewels — Resume & Portfolio  
+# 📄 Suren A. Jewels – Resume & Portfolio  
 Professional portfolio showcasing cloud infrastructure, secure systems, and enterprise engineering work.
 
 ---
