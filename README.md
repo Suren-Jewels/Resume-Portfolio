@@ -38,7 +38,7 @@ Currently studying **Applied Machine Learning (UW)** and **Cloud Architecture (B
 ---
 
 # 📁 Files  
-- 🔎 **[View Resume PDF](./SurenA-Jewels_Resume.pdf)** — Updated April 16, 2026  
+- 🔎 **[View Resume PDF](./SurenA-Jewels_Resume.pdf)** — Updated April 17, 2026  
 - 🏆 **[Career Highlights](./Career_Highlights.md)**  
 - 🗂️ **[Project Repositories](https://github.com/Suren-Jewels?tab=repositories)**  
 
