@@ -1,4 +1,4 @@
-# 📄 Suren A. Jewels – Resume & Portfolio  
+# 📄 SurenA Jewels – Resume & Portfolio  
 Professional portfolio showcasing cloud infrastructure, secure systems, and enterprise engineering work.
 
 ---
@@ -40,7 +40,7 @@ Currently studying **Applied Machine Learning (UW)** and **Cloud Architecture (B
 # 📁 Files  
 - 🔎 **[View Resume PDF](./SurenA-Jewels_Resume.pdf)** — Updated July 03, 2026  
 - 🏆 **[Career Highlights](./Career_Highlights.md)**  
-- 🗂️ **[Project Repositories](https://github.com/Suren-Jewels?tab=repositories)**  
+- 🗂️ **[Project Repositories](https://github.com/SurenA-Jewels?tab=repositories)**  
 
 ---
 
